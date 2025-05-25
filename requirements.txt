@@ -1,7 +1,6 @@
 SpeechRecognition==3.10.0
-pyaudio==0.2.13
+pyttsx3
 wikipedia==1.4.0
-pyttsx==2.90
 requests==2.31.0
 streamlit==1.26.0
 google_images_search==1.4.6
