@@ -1,0 +1,56 @@
+section.main.css-uf99v8.ea3mdgi5{
+    
+    /*background: linear-gradient(to bottom, #460885, #660099);*/ /* Shiny purple gradient */
+    /* background-size: cover; */
+    background: linear-gradient(to bottom, #0256b6, #fff, hotpink, #014ba0);
+
+}
+header.css-18ni7ap.ezrtsby2{
+    /* background-color: rgb(85, 82, 82);
+     */
+    background-color: rgba(70, 8, 133,0.1); /* Use the same dark purple color from the gradient */
+    color: #ffffff;
+}
+label.css-klqnuk.en6cib64{
+    color: white;
+}
+button.css-sa9oi8.ef3psqc4{
+    color: white;
+}
+svg.eyeqlp51.css-fblp2m.ex0cdmw0{
+    color: white;
+}
+img.css-1j15ncu.en6cib62{
+    background-color: white;
+}
+span.css-10trblm.e1nzilvr0{
+    color: white;
+}
+p{
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #0256b6;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    text-align: justify;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the img tag */
+img {
+    max-width: 100%; /* Ensure images don't exceed their container width */
+    height: auto; /* Maintain the image's aspect ratio */
+    display: inline-block; /* Display images inline so they appear side by side */
+    margin: 10px; /* Add spacing between images (adjust as needed) */
+}
+  
+  /* Optional: Style for a container div to control the width of the image row */
+div.css-1v0mbdj.e115fcil1{
+    max-width: 800px; /* Set a maximum width for the image row (adjust as needed) */
+    margin: 0 auto; /* Center the image row on the page (optional) */
+  }
+  
