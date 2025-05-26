@@ -41,9 +41,3 @@ LUNA: Follow the instructions in the application's user interface or sidebar to 
 Contributions
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-
-
-
-
-
