@@ -82,6 +82,7 @@ cmd8 = ['what is your favorite color', 'what is your favourite color']
 cmd9 = ['thank you']
 cmd10 = ['spotify', 'open spotify']
 cmd11 = ['open instagram', 'instagram']
+cmd20 = ['recommend playlist','recommend songs','song','songs']
 news = ['news']
 cmd12 = ['temperature', 'current temperature','What is the temprature','what is the current temprature']
 
@@ -290,6 +291,11 @@ while True:
 
     elif recognized_text in cmd7:
         say_response(random.choice(colrep))
+    
+    
+
+    elif recognized_text in cmd20:
+        subprocess.run(["streamlit", "run", "music.py"])
 
     elif recognized_text in cmd8:
         say_response(random.choice(colrep))

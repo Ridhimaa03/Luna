@@ -2,9 +2,29 @@ section.main.css-uf99v8.ea3mdgi5{
     
     /*background: linear-gradient(to bottom, #460885, #660099);*/ /* Shiny purple gradient */
     /* background-size: cover; */
-    background: linear-gradient(to bottom, #0256b6, #fff, hotpink, #014ba0);
+    /* background: linear-gradient(to bottom, #0256b6, #fff, hotpink, #014ba0); */
+    /* background: linear-gradient(to bottom, #432371, #faae7b);
+    background: linear-gradient(to bottom, #beb15b, #d5cfac); */
+    background: linear-gradient(to bottom, #243748, #4b749f);
+
+
 
 }
+div.css-1mqgob.e1f1d6gn0{
+    color: #fff;
+}
+
+div.css-1629p8f.e1nzilvr2{
+    color: #fff;
+    
+}
+span.css-10trblm.e1nzilvr1{
+    color: #fff;
+    font-family: cursive;
+}
+/* div.css-10oheav.eczjsme4{
+    background-color: black;
+} */
 header.css-18ni7ap.ezrtsby2{
     /* background-color: rgb(85, 82, 82);
      */
@@ -27,7 +47,8 @@ span.css-10trblm.e1nzilvr0{
     color: white;
 }
 p{
-    font-family: Arial, sans-serif;
+    /* font-family: Arial, sans-serif; */
+    font-family: cursive;
     font-size: 18px;
     color: #0256b6;
     line-height: 1.5;

@@ -27,17 +27,26 @@ pip install -r requirements.txt
 
 Usage
 
-1. Launch the application by running the respective Python script (main.py for LUNA).
+1. Launch the application by running the respective Python script (main.py for AuroraSphere and Translator.py for Majestic Translator).
 2. Follow the instructions provided in the application's user interface or sidebar.
 3. Speak voice commands into your microphone to interact with the application.
-4. Enjoy the functionalities provided by LUNA!
+4. Enjoy the functionalities provided by AuroraSphere and Majestic Translator!
 
 
 Additional Instructions
 
-LUNA: Follow the instructions in the application's user interface or sidebar to interact with different functionalities.
+1. LUNA: Follow the instructions in the application's user interface or sidebar to interact with different functionalities.
 
 
 Contributions
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+License
+
+This project is licensed under the MIT License.
+
+
+
+
+
