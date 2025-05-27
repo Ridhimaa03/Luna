@@ -1,52 +1,30 @@
-# LUNA
+# LUNA – Logical User Navigation Assistant
 
-Voice-controlled applications: LUNA.
+**LUNA** is an intelligent voice-controlled assistant designed to perform everyday digital tasks through natural language commands. It enhances productivity and user experience by integrating speech recognition, sentiment analysis, web interaction, and real-time information fetching in a single application.
 
-## LUNA
+---
 
-LUNA is a voice-controlled assistant that performs various tasks based on voice commands. Some of its functionalities include:
+## 🌟 Features
 
-- Opening web browsers like Google Chrome
-- Playing music on Spotify
-- Opening social media platforms like Instagram and YouTube
-- Providing the current time
-- Searching for information on Wikipedia
-- Fetching top news headlines from India
-- Checking the temperature
-- And much more!
+- 🌐 Open websites like Google, YouTube, Instagram
+- 🗣 Accepts natural voice commands using microphone input
+- 🔍 Searches and summarizes content from Wikipedia
+- 📰 Fetches top Indian news headlines using News API
+- 🌡️ Provides real-time weather and temperature updates via OpenWeatherMap API
+- 🎵 Plays mood-based music recommendations using TextBlob sentiment analysis and Spotify
+- ⏰ Tells the current time
+- 🔐 Secured login and registration with Firebase Authentication
+- 🎨 User-friendly interface using Streamlit with custom CSS
 
-To run LUNA, execute the `app.py` file.
+---
 
+## 🚀 How to Run
 
-## Prerequisites
+Make sure you have Python installed. Then:
 
-Before running these applications, ensure you have the necessary dependencies installed. You can install them using pip:
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
-
-Usage
-
-1. Launch the application by running the respective Python script (main.py for AuroraSphere and Translator.py for Majestic Translator).
-2. Follow the instructions provided in the application's user interface or sidebar.
-3. Speak voice commands into your microphone to interact with the application.
-4. Enjoy the functionalities provided by AuroraSphere and Majestic Translator!
-
-
-Additional Instructions
-
-1. LUNA: Follow the instructions in the application's user interface or sidebar to interact with different functionalities.
-
-
-Contributions
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-License
-
-This project is licensed under the MIT License.
-
-
-
-
-
